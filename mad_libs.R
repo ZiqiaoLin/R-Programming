@@ -32,7 +32,7 @@ mad_libs <- function(...){
   args <- list(...)
   place <- args[1]
   adjective <- args[2]
-  non <- args[3]
+  none <- args[3]
   # Don't modify any code below this comment.
   # Notice the variables you'll need to create in order for the code below to
   # be functional!
