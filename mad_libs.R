@@ -32,7 +32,11 @@ mad_libs <- function(...){
   args <- list(...)
   place <- args[1]
   adjective <- args[2]
+<<<<<<< HEAD
   noun <- args[3]
+=======
+  non <- args[3]
+>>>>>>> 89ad9ee041de7eafe1eeb7f18a9bd4f7ae4e98ad
   # Don't modify any code below this comment.
   # Notice the variables you'll need to create in order for the code below to
   # be functional!
